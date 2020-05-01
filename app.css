@@ -1,0 +1,120 @@
+body {
+	margin: 0px;
+}
+
+.container {
+	position: relative;
+}
+
+.category {
+	font-weight: bold;
+	font-size: 25px;
+	border: 1px solid black;
+	width: 260px;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 100%;
+	height: 500px;
+	opacity: 0.9;
+	margin-bottom: 30px;
+}
+
+h1 {
+	text-align: center;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 80px;
+	font-family: 'Caladea', serif;
+	background: #947e6f;
+	width: 450px;
+	height: 100px;
+	padding: 10px;
+}
+
+table {
+	margin: auto;
+	margin-top: 30px;
+	font-family: 'Caladea', serif;
+}
+
+td {
+	float: left;
+	width: 261px;
+	text-align: center;
+	padding: 5px;
+	height: 25px;
+	font-size: 20px;
+}
+
+#delete {
+	float: right;
+	background: red;
+	color: white;
+	height: 25px;
+	font-size: 15px;
+}
+
+#newBook {
+	font-family: 'Caladea', serif;
+	font-size: 20px;
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+	background: black;
+	display: block;
+	margin: auto;
+}
+
+#addBook {
+	font-family: 'Caladea', serif;
+	text-align: left;
+	width: 250px;
+	margin: auto;
+	display: none;
+	height: 300px;
+	font-size: 20px;
+	margin-top: 30px;
+}
+
+#addBook input {
+	display: block;
+	margin: 5px;
+	width: 250px;
+	height: 20px;
+	border-radius: 5px;
+	font-size: 16px;
+}
+
+#read-input {
+	color: blue;
+	border: none;
+	font-size: 18px;
+	margin-left: 60px;
+}
+
+h5 {
+	font-size: 28px;
+	margin-bottom: 15px;
+	margin-top: 18px;
+	text-align: center;
+}
+
+#addBook label{
+	text-align: left;
+}
+
+#submit {
+	color: blue;
+	border: none;
+	font-size: 20px;
+}
+
+input #hasRead {
+	text-align: center;
+	margin: auto;
+}
