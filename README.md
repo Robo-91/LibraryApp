@@ -27,14 +27,11 @@ To-do list:
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+Ensure that you have a text editor installed (Visual Studio Code, Sublime, etc).
+If using a Windows machine, ensure that you have git bash installed.
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
+Using the terminal/command prompt, navigate the directory that you want to clone the repository to and enter the following command:
+> git clone https://github.com/Robo-91/LibraryApp.git
 
 ## Usage
 
