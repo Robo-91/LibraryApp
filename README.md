@@ -1,33 +1,29 @@
-To view a Demo of this page: https://robo-91.github.io/LibraryApp//
-
-This webpage is part of The Odin Project curriculum.
-
-The purpose for making this project was to learn how to implement a function constructor in Javascript, and use that constructor to create new objects.
-
 # Library Application
 
 ## Project Description
 
 This webpage is part of The Odin Project curriculum.
 
-The purpose for making this project was to learn how to implement a function constructor in Javascript, and use that constructor to create new objects.
+The purpose for making this project was for practical application of fundamental OOP concepts using javascript, such as how to create a constructor function and add new objects using that constructor.
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* HTML
+* CSS
+* Javascript
 
 ## Features
 
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Use of the function constructor to create book objects.
+* Form for the user to interact with for inserting a new book.
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Make the application responsive.
+* Improve the UI.
+* Allow the user to make edits to already inserted books.
+* Add form validation.
+* Add a storage mechanism (either localStorage or Firebase).
 
 ## Getting Started
    
